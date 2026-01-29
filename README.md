@@ -1,84 +1,107 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=techievivek&label=Profile%20views&color=58A6FF&style=flat" />
+</p>
+
 # Hi, I'm Vivek 👋
 
-Full-stack engineer
-Tech Educator • Open-Source Enthusiast
+**Full-stack engineer · Systems enthusiast · Tech educator**
 
-I enjoy working on web, distributed systems, understanding **how things work under the hood**, and sharing that knowledge with the community.
+I enjoy building backend systems, understanding **how things work under the hood**, and explaining complex engineering ideas in a simple, practical way.
 
 ---
 
 ## 🚀 About Me
 
-- 🛠 Backend engineer with strong fundamentals in PHP/C++/Go, APIs, and system design
-- 🧠 Curious about **distributed systems, networking, containers, and internals**
-- 🎥 Run a tech-focused YouTube channel (**35k+ subscribers**) explaining backend & system concepts
-- 🏆 Winner – **Smart India Hackathon 2020**
-- 🌱 Constantly learning, refactoring, and simplifying complex ideas
+- 🛠 Backend-focused engineer with strong fundamentals in **Go, PHP, C++**, APIs, and system design
+- 🧠 Deep interest in **distributed systems, networking, containers, and internals**
+- 🎥 Run a tech-focused YouTube channel with **35k+ subscribers**
+- 🏆 **Smart India Hackathon 2020 Winner**
+- 🌱 Constantly learning, refactoring, and simplifying complex systems
 
 ---
 
-## 📊 GitHub Stats (Live)
+## 📊 GitHub Activity (Live)
 
-![Vivek's GitHub stats](./profile/stats.svg)
+<p align="center">
+  <img src="./profile/stats.svg" height="170" />
+  <img src="./profile/streak.svg" height="170" />
+</p>
+
+<p align="center">
+  <img src="./profile/top-langs.svg" />
+</p>
+
+<p align="center">
+  <img src="./profile/summary.svg" />
+</p>
+
+> _Stats are updated daily using GitHub Actions._
 
 ---
 
-## 🧠 Language & Tool Usage
+## 🏆 GitHub Achievements
 
-![Top Languages](./profile/top-langs.svg)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=techievivek&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
 
-> _Note: Language stats are based on public repositories and code size. Stats are automatically updated daily via GitHub Actions._
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techievivek&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&hide_border=true" />
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
-- Go, JavaScript, Bash
+### Languages
+- Go, JavaScript, Bash  
+- Working knowledge of PHP & C++
 
-**Backend & Systems**
+### Backend & Systems
 - REST APIs, HTTP, gRPC
-- Concurrency & performance
+- Concurrency & performance tuning
 - Linux internals (processes, memory, networking)
 
-**DevOps & Infra**
-- Docker, Containers
-- Kubernetes
+### DevOps & Infrastructure
+- Docker & containers
+- Kubernetes fundamentals
 - CI/CD with GitHub Actions
 
-**Databases**
-- PostgreSQL
-- SQLite
-- Redis
+### Databases & Caching
+- PostgreSQL, SQLite, Redis
 
 ---
 
-## 🏆 Highlights & Work
+## 🏆 Highlights
 
-- 🥇 **Smart India Hackathon 2020 Winner** (Govt. of India initiative)
+- 🥇 **Smart India Hackathon 2020 Winner**
 - 📦 Built and maintained production backend services
-- 🎓 Teach backend & system concepts to thousands of learners online
+- 🎓 Teach backend & system concepts to thousands of engineers online
 
 ---
 
 ## 🎥 Tech Content & Community
 
-- ▶️ YouTube: **Techievivek** (35k+ subscribers)
+- ▶️ **YouTube:** Techievivek (35k+ subscribers)
 - ✍️ Focus areas:
-  - PHP, JS, CMS
+  - Backend engineering fundamentals
   - HTTP, APIs, and networking
-  - Docker, containers, and Kubernetes fundamentals
-  - Backend engineering best practices
+  - Containers & Kubernetes
+  - System design & internals
 
-> I believe *teaching is the best way to learn*.
+> _I believe teaching is the fastest way to master fundamentals._
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/vivek-kumar-roy 
+- 💼 LinkedIn: https://www.linkedin.com/in/vivek-kumar-roy
 - 🎥 YouTube: https://www.youtube.com/techievivek
 
 ---
 
-> "Simplicity is prerequisite for reliability." — Edsger Dijkstra
+> **“Simplicity is prerequisite for reliability.” — Edsger Dijkstra**
