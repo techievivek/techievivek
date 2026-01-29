@@ -31,10 +31,6 @@ I enjoy building backend systems, understanding **how things work under the hood
   <img src="./profile/top-langs.svg" />
 </p>
 
-<p align="center">
-  <img src="./profile/summary.svg" />
-</p>
-
 > _Stats are updated daily using GitHub Actions._
 
 ---
