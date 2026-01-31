@@ -35,14 +35,6 @@ I enjoy building backend systems, understanding **how things work under the hood
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=techievivek&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
